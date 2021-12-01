@@ -20,7 +20,7 @@ Folder             | Description
 
 # Batches
 ![code quality score](https://api.codiga.io/project/30158/score/svg) 
-![code Grade](https://https://https://api.codiga.io/project/30158/status/svg) 
+![code Grade](https://api.codiga.io/project/30158/status/svg) 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/22f734d10f1f45fd9332e6b10d6cf783)](https://www.codacy.com/gh/Shaikaabid/M2-Embedded_Passenger-controlled-seat-heater/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Shaikaabid/M2-Embedded_Passenger-controlled-seat-heater&amp;utm_campaign=Badge_Grade)
 
 ## Details of contributer

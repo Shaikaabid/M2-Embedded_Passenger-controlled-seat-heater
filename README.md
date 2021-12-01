@@ -20,7 +20,7 @@ Folder             | Description
 
 # Batches
 ![code quality score](https://api.codiga.io/project/30158/score/svg) 
-![code Grade](https://https://api.codiga.io/project/30158/status/svg) 
+![code Grade](https://https://https://api.codiga.io/project/30158/status/svg) 
 
 ## Details of contributer
 
